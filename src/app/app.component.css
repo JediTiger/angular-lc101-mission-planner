@@ -1,4 +1,6 @@
 .box {
     display: flex;
     padding: 10px;
+    width: 100%;
+    border: thin orange dashed; 
 }
